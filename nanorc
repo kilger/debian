@@ -1,3 +1,7 @@
+
+set autoindent
 #add line numbering automatically
 set constantshow
+set tabsize 2
+set tabstospaces
 
